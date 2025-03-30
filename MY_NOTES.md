@@ -1,7 +1,8 @@
 Angular Overview
-- Is a framework
-- Keeps HTML and Javascript separate
-- Enables Single-Page Applictions
+- Why
+  - Is a framework
+  - Keeps HTML and Javascript separate
+  - Enables Single-Page Applictions
 - Core components
     - Components, Services
     - Directives, Pipes
@@ -10,6 +11,16 @@ Angular Overview
     - Routing, Animation
     - Testing
     - Building for Production
+    - CLI
+      - ng build
+      - ng serve
+      - ng generate
+      - ng ling
+      - ng test
+    - Dev Tool - browser ext
+ 
+- Angular Decorators
+- 
 
 
 
